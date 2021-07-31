@@ -1,4 +1,4 @@
-package pong
+package main
 
 import (
 	"github.com/hajimehoshi/ebiten"
