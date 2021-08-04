@@ -1,6 +1,7 @@
 build
 .vscode
 .idea
-.exe
+*.exe
 .dll
 vendor
+*/*.exe
